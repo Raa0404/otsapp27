@@ -1,3 +1,3 @@
-# OTS Final App
+# OTS App
 
-Production-ready React app for OTS system.
+This is the final production-ready build for the OTS app.
